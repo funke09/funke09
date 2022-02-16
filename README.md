@@ -3,10 +3,10 @@
 ---------------------
 
 
-- 🔭 I’m currently a Cybersecurity Engineer Student at 1337 School
+- 🔭 I’m currently a Student at 1337 School
 - 🌱 I’m currently learning: Cybersecurity, DevSecOps, Red teaming and more ...
-- 📫 How to reach me: twitter.com/ayoub0x1
-- ⚡ Fun fact: I love manipulating keyboards ❤️
+- 📫 How to reach me: zinebcherradi78@gmail.com
+- ⚡ Fun fact: I lov ❤️
 
 
 ## 📈 My Github status
