@@ -11,8 +11,8 @@
 
 ## 📈 My Github status
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zcherrad&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zcherrad&layout=compact&theme=radical)](https://github.com/funk09/funk09/blob/main/README.md)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=funke09&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=funke09&layout=compact&theme=radical)](https://github.com/funk09/funk09/blob/main/README.md)
 
 
 ## 👨‍💻 My 42 status
