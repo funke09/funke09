@@ -4,9 +4,9 @@
 
 
 - 🔭 I’m currently a Student at 1337 School
-- 🌱 I’m currently learning: Cybersecurity, DevSecOps, Red teaming and more ...
+- 🌱 I’m currently learning: Cybersecurity, shell, Red teaming and more ...
 - 📫 How to reach me: zinebcherradi78@gmail.com
-- ⚡ Fun fact: I lov ❤️
+- ⚡ Fun fact: im my own boss if you see me talking alone its because im im meeting  ❤️
 
 
 ## 📈 My Github status
