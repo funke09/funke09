@@ -15,7 +15,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=funke09&layout=compact&theme=radical)](https://github.com/funk09/funk09/blob/main/README.md)
 
 
-## 👨‍💻 My 42 status
+//## 👨‍💻 My 42 status
 
 
-[![zcherrad's 42 stats](https://badge.mediaplus.ma/binary/zcherrad)](https://github.com/oakoudad/badge42)
+//[![zcherrad's 42 stats](https://badge.mediaplus.ma/binary/zcherrad)](https://github.com/oakoudad/badge42)
