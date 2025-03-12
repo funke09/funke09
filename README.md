@@ -34,9 +34,9 @@ Dynamic and adaptable DevOps Engineer and Software Developer/Engineer with a div
 
 - Skilled in scripting and automation using Bash and YAML.
 
-### 🚀 Currently Open to Work:
+### 🚀 Status of Work:
 
-I am currently seeking new opportunities where I can leverage my skills and expertise to contribute to innovative projects.
+I am always seeking new opportunities where I can leverage my skills and expertise to contribute to innovative projects.
 
 ## 👩‍💻 My tools:
 
@@ -63,7 +63,7 @@ I am currently seeking new opportunities where I can leverage my skills and expe
 
 ## 📫 How to reach me:
 
-  Email: zinebcherradi78@gmail.com
+  Email: zcherradi09@gmail.com
   
   LinkedIn: [Zineb Cherradi](https://www.linkedin.com/in/zineb-cherradi)
   
