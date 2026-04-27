@@ -2,37 +2,29 @@
 
 <img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-Dynamic and adaptable DevOps Engineer and Software Developer/Engineer with a diverse skill set honed through immersive learning experiences and practical projects. I excel at crafting robust solutions and optimizing workflows, making me a valuable contributor to innovative projects.
+DevOps & Cloud Infrastructure Engineer with 3+ years of hands-on experience designing, deploying, and managing scalable cloud environments. Passionate about automation, infrastructure as code, and DevSecOps practices. Experienced across the full delivery lifecycle — from CI/CD pipelines and container orchestration to DNS management, cloud migrations, and blockchain development. Always eager to tackle complex infrastructure challenges and contribute to high-impact engineering teams..
 
 ## 🚀 My Experiences:
 
-### DevOps Engineer and Software Developer
+### DevOps & Cloud Infrastructure
 
-- Designed and managed scalable infrastructure with Kubernetes (Civo cloud).
+- Architected and managed end-to-end cloud infrastructure on AWS and CIVO, covering EC2, EKS, S3, RDS, CloudFront, and IAM.
+- Led a zero-downtime cloud migration from AWS to CIVO, optimizing resource utilization and cost efficiency.
+- Managed DNS infrastructure and CDN policies using Cloudflare, including WAF rules and SSL/TLS configuration.
+- Automated infrastructure provisioning using Terraform and Helm as part of a full IaC strategy.
+- Designed and maintained CI/CD pipelines with Jenkins and GitHub Actions for rapid, reliable software delivery.
+- Orchestrated containerized workloads using Docker and Kubernetes across multi-node production environments.
+- Implemented monitoring and alerting solutions with Grafana, Prometheus, and the ELK Stack for full system observability.
+- Built secure remote access environments using OpenVPN and enforced DevSecOps best practices.
 
-- Automated infrastructure provisioning using Terraform.
+### Software Development
 
-- Implemented CI/CD pipelines using Jenkins and GitHub Actions.
-
-- Optimized cloud resources and monitored systems using Prometheus and Grafana.
-
-- Migrated services from AWS to Civo, ensuring seamless transitions.
-
-- Integrated tools like Zookeeper and Zendesk into workflows for better service management.
-
-- Developed and deployed applications with Docker and container orchestration tools.
-
-### Software Development Expertise
-
-- Created a custom Internet Relay Chat server, demonstrating expertise in networking protocols (TCP/UDP).
-
-- Developed 2D and 3D games using C/C++ and SDL.
-
-- Built and deployed sophisticated web applications using PostgreSQL, Next.js, and Nest.js.
-
-- Designed robust backends using Python and managed database systems with MariaDB and MySQL.
-
-- Skilled in scripting and automation using Bash and YAML.
+- Developed and deployed ERC-20 and ERC-721 smart contracts on the Ethereum blockchain using Solidity.
+- Built a custom IRC server in C++ with TCP/IP networking and concurrent real-time connection management.
+- Developed full-stack web applications using Next.js, Nest.js, PostgreSQL, and Prisma ORM.
+- Designed backends in Python and managed relational databases with PostgreSQL, MariaDB, and MySQL.
+- Implemented OAuth 2.0 authentication, RESTful API design, and containerized deployments with Docker Compose.
+- Skilled in scripting and automation using Bash, Python, and YAML.
 
 ### 🚀 Status of Work:
 
